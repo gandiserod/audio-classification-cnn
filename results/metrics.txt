@@ -1,0 +1,10 @@
+Dataset: Environmental Sound Classification
+Model: CNN on Mel-spectrograms
+
+Training epochs: 60
+Optimizer: Adam (lr = 1e-3, cosine annealing)
+Loss: Class-weighted cross-entropy
+
+Final training loss: ~0.07
+Final Kaggle accuracy: ~0.79
+Peak Kaggle accuracy observed: ~0.82

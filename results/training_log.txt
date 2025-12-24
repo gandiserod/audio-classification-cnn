@@ -1,0 +1,5 @@
+Epoch 1/70  - loss: 1.57
+Epoch 10/70 - loss: 0.52
+Epoch 30/70 - loss: 0.22
+Epoch 50/70 - loss: 0.11
+Epoch 70/70 - loss: 0.07

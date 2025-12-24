@@ -1,0 +1,9 @@
+__pycache__/
+*.pt
+*.pth
+*.wav
+*.csv
+data/
+mel_cache/
+submission*.csv
+.env
